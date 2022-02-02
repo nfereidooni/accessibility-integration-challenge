@@ -1,0 +1,33 @@
+.logo {
+    height: 50px;
+}
+
+.form-control {
+    border: 1px solid grey;
+    color: darkgrey;
+    width: 353px !important;
+    padding-left: 10px;
+}
+
+.userMenu {
+    padding-left: 80px;
+    display: flex;
+    justify-content: end;
+}
+
+@media only screen and (max-width: 1093px) {
+    .form-control {
+        width: 270px !important;
+    }
+  }
+
+@media only screen and (max-width: 991px) {
+    .userMenu{
+        padding-left: 0px;
+    }
+  }
+
+.icon {
+    display: inline-block;
+    width: 25px;
+}
