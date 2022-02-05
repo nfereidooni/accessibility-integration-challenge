@@ -21,14 +21,14 @@ Additional Objectives:
 - Feel free to re-design the layout to showcase your creativity.
 
 ## Installation:
-Live Website: TBD
+Live Website: https://nfereidooni.github.io/accessibility-integration-challenge
 
 ## Packages
 - React-Bootstrap (https://react-bootstrap.github.io/)
 
 ## Screenshots
 
-![TBD]( )
+![Challenge Accessibility Integration Screenshot](/src/components/assets/img/prepr_accessibility_screenshot.PNG)
 
 ## License:
 MIT LICENSE
