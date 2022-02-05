@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/accessibility-integration-challenge/static/css/main.56dfcf57.css",
+    "main.js": "/accessibility-integration-challenge/static/js/main.9673d66d.js",
+    "static/js/787.92fe8a2d.chunk.js": "/accessibility-integration-challenge/static/js/787.92fe8a2d.chunk.js",
+    "static/media/IMG_Niki.jpg": "/accessibility-integration-challenge/static/media/IMG_Niki.5eeaf6b01671d75fa460.jpg",
+    "index.html": "/accessibility-integration-challenge/index.html",
+    "main.56dfcf57.css.map": "/accessibility-integration-challenge/static/css/main.56dfcf57.css.map",
+    "main.9673d66d.js.map": "/accessibility-integration-challenge/static/js/main.9673d66d.js.map",
+    "787.92fe8a2d.chunk.js.map": "/accessibility-integration-challenge/static/js/787.92fe8a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56dfcf57.css",
+    "static/js/main.9673d66d.js"
+  ]
+}
